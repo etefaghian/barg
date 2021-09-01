@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T13:53:09.715Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="789Ja6103mZ9HGOxjqSy" version="15.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-01T14:26:36.600Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="g8Qc25GwiqwFPTYACGZt" version="15.0.4" type="github" pages="5">
   <diagram id="zm9EhGsO0Ewxgib7d6Pb" name="chart">
     <mxGraphModel dx="4782" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1359,13 +1359,13 @@
         <mxCell id="ykTf5gTomQ8AEIMCKrkA-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="rR_78BtBwo5MNy_2-f08-1" vertex="1">
           <mxGeometry x="-600" y="1980" width="1110" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="ykTf5gTomQ8AEIMCKrkA-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;Template&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;name&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;access-list: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;read:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;assign&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;modify &lt;span style=&quot;background-color: rgb(153 , 255 , 153)&quot;&gt;Template Access List&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;features: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;background-color: rgb(204 , 153 , 255)&quot;&gt;&lt;span&gt;	&lt;/span&gt;tag: string[];&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;lt;feature-name&amp;gt;: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;type: FeatureType&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;access-list: Template-AL&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="rR_78BtBwo5MNy_2-f08-1" vertex="1">
-          <mxGeometry x="-560" y="1990" width="400" height="490" as="geometry" />
+        <mxCell id="ykTf5gTomQ8AEIMCKrkA-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;Template&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;name&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;access-list: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;access: //who can use this template and own options for find files&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;assign //who can add or assign new file to this temp&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;	modify &lt;span style=&quot;background-color: rgb(153 , 255 , 153)&quot;&gt;Template Access List&amp;nbsp;&lt;/span&gt; //who can modify this template and its features&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;features: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;background-color: rgb(204 , 153 , 255)&quot;&gt;&lt;span&gt;	&lt;/span&gt;tag: string[];&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&amp;lt;feature-name&amp;gt;: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;_id: objectId;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;type: FeatureType&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;access-list: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;access: Template-AL&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;assign: Template-AL;&lt;/span&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="rR_78BtBwo5MNy_2-f08-1" vertex="1">
+          <mxGeometry x="-560" y="1980" width="400" height="490" as="geometry" />
         </mxCell>
         <mxCell id="ykTf5gTomQ8AEIMCKrkA-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="rR_78BtBwo5MNy_2-f08-1" vertex="1">
           <mxGeometry x="210" y="2250" width="260" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="ykTf5gTomQ8AEIMCKrkA-3" value="&lt;h1&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;Template Access List&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;positions&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;position-user&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;user&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;unit&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="rR_78BtBwo5MNy_2-f08-1" vertex="1">
+        <mxCell id="ykTf5gTomQ8AEIMCKrkA-3" value="&lt;h1&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;Template Access List&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;positions-unit&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;position-user-unit&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;user&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;unit&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="rR_78BtBwo5MNy_2-f08-1" vertex="1">
           <mxGeometry x="220" y="2270" width="260" height="490" as="geometry" />
         </mxCell>
         <mxCell id="ykTf5gTomQ8AEIMCKrkA-8" value="&lt;font style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;File Schemas:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;pointerEvents=0;" parent="rR_78BtBwo5MNy_2-f08-1" vertex="1">
@@ -1374,19 +1374,19 @@
         <mxCell id="ykTf5gTomQ8AEIMCKrkA-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="rR_78BtBwo5MNy_2-f08-1" vertex="1">
           <mxGeometry x="550" y="1970" width="840" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="ykTf5gTomQ8AEIMCKrkA-12" value="&lt;h1&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;File&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;name: string;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;acl:{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;write: AL //modify own file&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;read: AL&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;delete: AL&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;change acl: AL&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;features: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;tag: [&quot;gdsfgf&quot;];&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;a: 1 ;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="rR_78BtBwo5MNy_2-f08-1" vertex="1">
+        <mxCell id="ykTf5gTomQ8AEIMCKrkA-12" value="&lt;h1&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;File&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;name: string;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;access list:{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;write: AL //modify own file&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;read: AL&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;delete: AL&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;change access List: AL&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;features: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;tag: [&quot;gdsfgf&quot;];&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;a: 1 ;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="rR_78BtBwo5MNy_2-f08-1" vertex="1">
           <mxGeometry x="580" y="2020" width="250" height="490" as="geometry" />
         </mxCell>
         <mxCell id="4L5_YoglUD8Biet9lFV4-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="rR_78BtBwo5MNy_2-f08-1">
-          <mxGeometry x="690" y="2230" width="330" height="540" as="geometry" />
+          <mxGeometry x="700" y="2270" width="330" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="4L5_YoglUD8Biet9lFV4-0" value="&lt;h1&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;Access List&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;positions&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;position-user&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;user&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;unit&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="rR_78BtBwo5MNy_2-f08-1">
-          <mxGeometry x="710" y="2260" width="310" height="490" as="geometry" />
+        <mxCell id="4L5_YoglUD8Biet9lFV4-0" value="&lt;h1&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;File Access List&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;positions-unit&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;position-user-unit&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;user&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;unit&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="rR_78BtBwo5MNy_2-f08-1">
+          <mxGeometry x="720" y="2300" width="310" height="490" as="geometry" />
         </mxCell>
         <mxCell id="H8ZGZlE_LEhhgPMjSem4-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="rR_78BtBwo5MNy_2-f08-1">
           <mxGeometry x="-90" y="2245" width="260" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="H8ZGZlE_LEhhgPMjSem4-0" value="&lt;h1&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;Feature Type&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;&amp;nbsp;ty&lt;/span&gt;pe: string | number | boolean | enum | date&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;string option: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;min:&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;max&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;enum-option: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;values:&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;}&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;isArray: boolean;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="rR_78BtBwo5MNy_2-f08-1">
+        <mxCell id="H8ZGZlE_LEhhgPMjSem4-0" value="&lt;h1&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;Feature Type&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;{&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt;&amp;nbsp;ty&lt;/span&gt;pe: string | number | boolean | enum | date&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;string option: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;min:&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;max&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;enum-option: {&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;values:&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;}&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;default value: any&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;isArray: boolean;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;isOptional: boolean;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;span&gt; &lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="rR_78BtBwo5MNy_2-f08-1">
           <mxGeometry x="-80" y="2260" width="260" height="520" as="geometry" />
         </mxCell>
       </root>
@@ -1415,7 +1415,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dWNSeObmtfUyYwQNlJBK" name="file - wireframes">
-    <mxGraphModel dx="1382" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1152" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6x3HCgxk3n3xnR7P5dxP-0" />
         <mxCell id="6x3HCgxk3n3xnR7P5dxP-1" parent="6x3HCgxk3n3xnR7P5dxP-0" />
@@ -1663,19 +1663,19 @@
           <mxGeometry x="60" y="215" width="70" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HGC45UMqSfp2w8zrGFq5-51" value="&lt;span style=&quot;font-size: 18px&quot;&gt;ایجاد طرح واره&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="6x3HCgxk3n3xnR7P5dxP-1" vertex="1">
-          <mxGeometry x="2000" y="170" width="410" height="20" as="geometry" />
+          <mxGeometry x="2000" y="140" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HGC45UMqSfp2w8zrGFq5-52" value="" style="group" parent="6x3HCgxk3n3xnR7P5dxP-1" vertex="1" connectable="0">
-          <mxGeometry x="1380" y="195" width="1030" height="580" as="geometry" />
+          <mxGeometry x="1420" y="160" width="1030" height="675" as="geometry" />
         </mxCell>
         <mxCell id="HGC45UMqSfp2w8zrGFq5-53" value="" style="group" parent="HGC45UMqSfp2w8zrGFq5-52" vertex="1" connectable="0">
-          <mxGeometry y="-10" width="1030" height="590" as="geometry" />
+          <mxGeometry y="5" width="1030" height="670" as="geometry" />
         </mxCell>
         <mxCell id="HGC45UMqSfp2w8zrGFq5-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
-          <mxGeometry y="10" width="890.51" height="590" as="geometry" />
+          <mxGeometry y="10" width="890.51" height="660" as="geometry" />
         </mxCell>
         <mxCell id="HGC45UMqSfp2w8zrGFq5-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
-          <mxGeometry x="800" width="187.5" height="420" as="geometry" />
+          <mxGeometry x="780" y="10" width="208.75" height="420" as="geometry" />
         </mxCell>
         <mxCell id="HGC45UMqSfp2w8zrGFq5-56" value="" style="group" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1" connectable="0">
           <mxGeometry x="223.5" y="20" width="350" height="40" as="geometry" />
@@ -1747,7 +1747,7 @@
           <mxGeometry x="800" y="60" width="187.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HGC45UMqSfp2w8zrGFq5-90" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
-          <mxGeometry x="110" y="131.5" width="600" height="347" as="geometry" />
+          <mxGeometry x="110" y="131.5" width="600" height="508.5" as="geometry" />
         </mxCell>
         <mxCell id="HGC45UMqSfp2w8zrGFq5-91" value="modal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
           <mxGeometry x="160" y="111.5" width="40" height="20" as="geometry" />
@@ -1755,32 +1755,95 @@
         <mxCell id="HGC45UMqSfp2w8zrGFq5-92" value="نام طرح واره" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
           <mxGeometry x="597.5" y="178" width="95" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HGC45UMqSfp2w8zrGFq5-95" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
-          <mxGeometry x="120" y="198" width="290" height="242" as="geometry" />
-        </mxCell>
-        <mxCell id="HGC45UMqSfp2w8zrGFq5-96" value="لیست ویژگی ها" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
-          <mxGeometry x="290" y="170" width="110" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="HGC45UMqSfp2w8zrGFq5-97" value="نام" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
-          <mxGeometry x="350" y="228" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="HGC45UMqSfp2w8zrGFq5-98" value="نوع" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
-          <mxGeometry x="350" y="254" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="HGC45UMqSfp2w8zrGFq5-99" value="تنظیمات نوع" style="rounded=1;whiteSpace=wrap;html=1;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
-          <mxGeometry x="225" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HGC45UMqSfp2w8zrGFq5-100" value="سطح دسترسی" style="rounded=1;whiteSpace=wrap;html=1;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
-          <mxGeometry x="170" y="250" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HGC45UMqSfp2w8zrGFq5-101" value="استفاده از سطح دسترسی پیشفرض" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
-          <mxGeometry x="123.5" y="220" width="100" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="HGC45UMqSfp2w8zrGFq5-102" value="&amp;nbsp; سطح دسترسی فایل" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
-          <mxGeometry x="573.5" y="217.5" width="122.5" height="25" as="geometry" />
+          <mxGeometry x="570" y="349.5" width="122.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="HGC45UMqSfp2w8zrGFq5-104" value="خواندن&lt;br&gt;نوشتن&lt;br&gt;حدف&lt;br&gt;تغییر تنظیمات فایل" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="HGC45UMqSfp2w8zrGFq5-53" vertex="1">
-          <mxGeometry x="560" y="245.5" width="120" height="174.5" as="geometry" />
+          <mxGeometry x="569" y="379.5" width="120" height="174.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NFw2PnQs2jg4n8IZJPDS-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="140" y="353" width="290" height="227" as="geometry" />
+        </mxCell>
+        <mxCell id="NFw2PnQs2jg4n8IZJPDS-3" value="سطح دسترسی" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="310" y="325" width="110" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="NFw2PnQs2jg4n8IZJPDS-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="160" y="385" width="260" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-0" value="دسترسی خواندن" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="310" y="360" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-8" value="" style="group" vertex="1" connectable="0" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="174.78" y="455" width="255.22" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-1" value="نام واحد" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G9yBybhOMK5Lsmn5byB1-8">
+          <mxGeometry x="178.01822064056938" width="77.2017793594306" height="18.165137614678898" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-2" value="اضافه کردن" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="G9yBybhOMK5Lsmn5byB1-8">
+          <mxGeometry x="9.08256227758007" y="77.20183486238533" width="63.577935943060496" height="21.798165137614678" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-3" value="همه ی سمت ها" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G9yBybhOMK5Lsmn5byB1-8">
+          <mxGeometry width="81.74306049822064" height="18.165137614678898" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="G9yBybhOMK5Lsmn5byB1-8">
+          <mxGeometry x="79.01829181494662" y="7.26605504587156" width="9.08256227758007" height="9.082568807339449" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="G9yBybhOMK5Lsmn5byB1-8">
+          <mxGeometry x="99.90818505338078" width="94.45864768683273" height="18.165137614678898" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-6" value="لیست سمت ها" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G9yBybhOMK5Lsmn5byB1-8">
+          <mxGeometry x="157.12832740213523" y="23.61467889908257" width="73.56875444839858" height="18.165137614678898" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-7" value=".............&lt;br&gt;.......check box......&lt;br&gt;............" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="G9yBybhOMK5Lsmn5byB1-8">
+          <mxGeometry x="118.07330960854092" y="41.77981651376147" width="108.99074733096084" height="44.5045871559633" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="242.7681850533807" y="401.83" width="94.45864768683273" height="18.165137614678898" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-10" value="لیست کاربران" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="337.22822064056936" y="401.83" width="77.2017793594306" height="18.165137614678898" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-11" value="یا" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="265" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-12" value="عکس طرح و.اره:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="590" y="210" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G9yBybhOMK5Lsmn5byB1-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="581.25" y="233" width="100" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="NFw2PnQs2jg4n8IZJPDS-0" value="" style="group" vertex="1" connectable="0" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="140" y="160" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="HGC45UMqSfp2w8zrGFq5-95" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="NFw2PnQs2jg4n8IZJPDS-0" vertex="1">
+          <mxGeometry y="28" width="290" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="HGC45UMqSfp2w8zrGFq5-96" value="لیست ویژگی ها" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NFw2PnQs2jg4n8IZJPDS-0" vertex="1">
+          <mxGeometry x="170" width="110" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="HGC45UMqSfp2w8zrGFq5-97" value="نام" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NFw2PnQs2jg4n8IZJPDS-0" vertex="1">
+          <mxGeometry x="230" y="58" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HGC45UMqSfp2w8zrGFq5-98" value="نوع" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NFw2PnQs2jg4n8IZJPDS-0" vertex="1">
+          <mxGeometry x="230" y="84" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HGC45UMqSfp2w8zrGFq5-99" value="تنظیمات نوع" style="rounded=1;whiteSpace=wrap;html=1;" parent="NFw2PnQs2jg4n8IZJPDS-0" vertex="1">
+          <mxGeometry x="105" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HGC45UMqSfp2w8zrGFq5-100" value="سطح دسترسی" style="rounded=1;whiteSpace=wrap;html=1;" parent="NFw2PnQs2jg4n8IZJPDS-0" vertex="1">
+          <mxGeometry x="50" y="80" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HGC45UMqSfp2w8zrGFq5-101" value="استفاده از سطح دسترسی پیشفرض" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NFw2PnQs2jg4n8IZJPDS-0" vertex="1">
+          <mxGeometry x="3.5" y="50" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymcmW8pPyqIO_bOB6rUq-0" value="از ویژگی های پدر ارث بری بکند" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="223.5" y="135" width="183" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ymcmW8pPyqIO_bOB6rUq-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="397.5" y="143" width="5" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ymcmW8pPyqIO_bOB6rUq-3" value="نمایش ویژگی پدر" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="HGC45UMqSfp2w8zrGFq5-53">
+          <mxGeometry x="160" y="143" width="76" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
