@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T12:00:59.417Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="pzHjjQqnp5VMZS1jFMh-" version="15.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-06T12:05:12.286Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="KRntHMBtJEmuXKXIWwaZ" version="15.0.6" type="github" pages="5">
   <diagram id="zm9EhGsO0Ewxgib7d6Pb" name="chart">
     <mxGraphModel dx="8928" dy="3024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1415,7 +1415,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dWNSeObmtfUyYwQNlJBK" name="file - wireframes">
-    <mxGraphModel dx="2764" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4607" dy="2520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6x3HCgxk3n3xnR7P5dxP-0" />
         <mxCell id="6x3HCgxk3n3xnR7P5dxP-1" parent="6x3HCgxk3n3xnR7P5dxP-0" />
@@ -2121,9 +2121,6 @@
         <mxCell id="nIPnPPJIWFhDfblRIejI-817" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/multimedia-75/512/multimedia-06-128.png;sketch=0;strokeColor=#FFB570;fillColor=none;" vertex="1" parent="nIPnPPJIWFhDfblRIejI-618">
           <mxGeometry x="945.56" y="553.75" width="38" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="nIPnPPJIWFhDfblRIejI-818" value="" style="triangle;whiteSpace=wrap;html=1;sketch=0;strokeColor=#314354;fillColor=#647687;rotation=-180;fontColor=#ffffff;" vertex="1" parent="nIPnPPJIWFhDfblRIejI-618">
-          <mxGeometry x="947.03" y="63.71999999999997" width="20" height="26.67" as="geometry" />
-        </mxCell>
         <mxCell id="nIPnPPJIWFhDfblRIejI-819" value="" style="outlineConnect=0;strokeColor=#d79b00;fillColor=#ffe6cc;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.template;" vertex="1" parent="nIPnPPJIWFhDfblRIejI-618">
           <mxGeometry x="947.8399999999999" y="333.50333333333333" width="33.45" height="33.45" as="geometry" />
         </mxCell>
@@ -2168,6 +2165,9 @@
         </mxCell>
         <mxCell id="nIPnPPJIWFhDfblRIejI-834" value="انتخاب طرحواره" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="nIPnPPJIWFhDfblRIejI-618">
           <mxGeometry x="56.80000000000001" y="405.25" width="120" height="19.25" as="geometry" />
+        </mxCell>
+        <mxCell id="q6NcxvXDCXM4hO6-Xb20-81" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/music-ui-solid-24px/24/arrow_chevron_drop_down-2-128.png;rounded=1;sketch=0;strokeColor=#333333;fillColor=none;rotation=90;" vertex="1" parent="nIPnPPJIWFhDfblRIejI-618">
+          <mxGeometry x="920" y="60.42000000000001" width="33.26" height="33.26" as="geometry" />
         </mxCell>
         <mxCell id="nIPnPPJIWFhDfblRIejI-795" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="6x3HCgxk3n3xnR7P5dxP-1">
           <mxGeometry x="386.4" y="555" as="geometry">
