@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T13:37:27.850Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="6agfGR175Ob1DiiE3ITt" version="15.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-06T13:48:52.172Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="iSuHNcIkD5-lTK8OdIyR" version="15.0.6" type="github" pages="5">
   <diagram id="zm9EhGsO0Ewxgib7d6Pb" name="chart">
     <mxGraphModel dx="14031" dy="5815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1280,7 +1280,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dWNSeObmtfUyYwQNlJBK" name="file - wireframes">
-    <mxGraphModel dx="1974" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="12564" dy="6873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6x3HCgxk3n3xnR7P5dxP-0" />
         <mxCell id="6x3HCgxk3n3xnR7P5dxP-1" parent="6x3HCgxk3n3xnR7P5dxP-0" />
@@ -3889,7 +3889,7 @@
           <mxGeometry x="2866" y="392.43000000000006" width="129" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LiTC_arU3vjEfryBaIke-259" value="لیست طرحواره های اضافه شده" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="6x3HCgxk3n3xnR7P5dxP-1">
-          <mxGeometry x="2810" y="473.34" width="170" height="101" as="geometry" />
+          <mxGeometry x="2810" y="459" width="170" height="101" as="geometry" />
         </mxCell>
         <mxCell id="LiTC_arU3vjEfryBaIke-261" value="جست و جو" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;align=right;" vertex="1" parent="6x3HCgxk3n3xnR7P5dxP-1">
           <mxGeometry x="3320" y="331.9100000000001" width="180" height="31.52" as="geometry" />
