@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T13:35:24.884Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="7GIIRlaEzzHWcSFzRDNy" version="15.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-09-06T13:37:27.850Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 OPR/72.0.3815.186" etag="6agfGR175Ob1DiiE3ITt" version="15.0.6" type="github" pages="5">
   <diagram id="zm9EhGsO0Ewxgib7d6Pb" name="chart">
     <mxGraphModel dx="14031" dy="5815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1280,7 +1280,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dWNSeObmtfUyYwQNlJBK" name="file - wireframes">
-    <mxGraphModel dx="6910" dy="3780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1974" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6x3HCgxk3n3xnR7P5dxP-0" />
         <mxCell id="6x3HCgxk3n3xnR7P5dxP-1" parent="6x3HCgxk3n3xnR7P5dxP-0" />
@@ -3896,12 +3896,6 @@
         </mxCell>
         <mxCell id="LiTC_arU3vjEfryBaIke-204" value="لیست و.یژگی ها" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6x3HCgxk3n3xnR7P5dxP-1">
           <mxGeometry x="2709.5" y="629.0000000000001" width="490" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="LiTC_arU3vjEfryBaIke-263" value="نگهداری نسخه قبلی" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="6x3HCgxk3n3xnR7P5dxP-1">
-          <mxGeometry x="2558.5" y="511.84" width="117" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LiTC_arU3vjEfryBaIke-264" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b46504;fillColor=#fad7ac;" vertex="1" parent="6x3HCgxk3n3xnR7P5dxP-1">
-          <mxGeometry x="2671.5" y="513.84" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LiTC_arU3vjEfryBaIke-265" value="جست و جوی نام طرج" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#333333;fillColor=none;align=right;" vertex="1" parent="6x3HCgxk3n3xnR7P5dxP-1">
           <mxGeometry x="2817" y="418.27" width="165" height="30.16" as="geometry" />
